@@ -1,2 +1,2 @@
 # Selenium
-Prueba en Python y ChromeDriver
+Test in Python and ChromeDriver
